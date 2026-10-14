@@ -11,7 +11,7 @@ MV2's name. Every statement below is either proved here or cited to a source. Se
 what is proved from what is open, and section 11 lists what is new here. Corrections are welcome by
 issue or pull request.
 
-Version 1.0, 2026-10-14. Text CC BY 4.0, code MIT.
+Version 1.0, 2026-10-14. Text CC BY 4.0, code Apache-2.0.
 
 Related problem records: Justin Sun Prize JSP-000016 (MathDB #316099, "Littlewood conjecture"),
 Wikipedia "Littlewood conjecture".
@@ -338,5 +338,5 @@ Numbers: `sqrt2`, `sqrt(7)`, `cbrt2`, `2^1/3`, `2^2/3`, `golden`, and `surd:a,b,
 
 ## Licence
 
-Text: CC BY 4.0. Code: MIT (see LICENSE). Cite as: MV2 (Munim, Inc.), "The Littlewood conjecture in
+Text: CC BY 4.0. Code: Apache-2.0 (see LICENSE). Cite as: MV2 (Munim, Inc.), "The Littlewood conjecture in
 October 2026", 2026.

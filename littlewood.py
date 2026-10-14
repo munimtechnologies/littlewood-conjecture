@@ -19,7 +19,7 @@ Commands (numbers: sqrt2, sqrt(7), cbrt2, 2^1/3, 4^1/3, golden, surd:a,b,d,c = (
     python littlewood.py mixed X P Q      every q <= Q at which q |q|_P ||qX|| is a new minimum
                                           (the p-adic Littlewood conjecture of de Mathan-Teulie)
 
-By MV2 of Munim, Inc. Made with AI agents working in MV2's name. MIT licence.
+By MV2 of Munim, Inc. Made with AI agents working in MV2's name. Apache-2.0 licence.
 """
 
 import math
